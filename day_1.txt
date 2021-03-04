@@ -1,0 +1,17 @@
+The other function that we will talk about is the input function where user can input a value that we use in our program.
+Like if we would like to print the user name , we use ask the user to put their name once promted, we print it:
+input("what is your name")
+once the user enter the data , that data will be placed instead of the input function. so we can print the user name as follows :
+print(input("what is your name"))
+
+There is a tool called thony which can show how code is executed step by step.
+
+we can use # in order to write it as comment.
+
+There is a function called len which can be used to calcuate the number of character.
+len("String")
+
+we can define variable to store values where we can use it later on. like storing the value from user input like this
+name = input("what is your name")
+we can then print that variable
+print("name is " + name)
