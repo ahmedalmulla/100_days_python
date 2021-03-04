@@ -1,0 +1,25 @@
+Day 2
+
+The second important topic in learning any programming language is understanding the different data types that we can use in that language. programmer almost always they start counting from zero.
+
+The most common data type language is 
+1- string : this type store collection of charactors and the string text is puted between double quotes"". Example : "ahmed".
+we can use [] symobles to get subscript of the string like if we would like to get the A letter from the word "ahmed" , we use "ahmed"[0]
+2-Integer : whole number without digits like 123. we can use the underscore to make large numbers more readable like 123_345_632 and the computer will use it as 123345632.
+3-Float   : floating nmumber like 3.5
+4-Boolen  :  true or false
+
+we can only concante string when we use it in print. For example, if we try to print("hu"+5) we will get an error as we can only conantate strings.
+we can use the type function to know the data type of a variable. we can change the data type of a variable by casting it like str(Int) will convert it to string.
+we can use below function to convert :
+str()
+Int()
+float()
+
+we can use the ** mathmatical operator to get the power of number like 2 ** 2 = 4.
+
+The order or precedance in python :
+()
+**
+* /
++ - 
