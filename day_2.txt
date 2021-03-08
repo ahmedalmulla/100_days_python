@@ -23,3 +23,11 @@ The order or precedance in python :
 **
 * /
 + - 
+
+we can use // to get the divided result as a whole number instead of float without the need to use the round or int function.
+
+you can divide or do any operation to the variable by puting the operation before the equal like this :
+result /= 2 to divide the result variable with 2.
+
+we can use f-string to put other type of variable inside the string by putting the f before the "" and put the variable inside {}.
+f"this is the total {total}"
